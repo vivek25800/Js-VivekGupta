@@ -19,3 +19,5 @@ let isLoggedIn = false //Boolean datatype
 //object
 
 console.log(typeof "vivek"); // string type
+console.log(typeof undefined); // undefined
+console.log(typeof null); // object
